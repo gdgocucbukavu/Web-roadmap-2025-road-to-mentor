@@ -58,14 +58,17 @@
   - Créer une application des gestion des tâches avec CRUD
 
 ## Mois 2 : Découverte d'Angular, Material UI et Firebase
-### Semaine 5 : Introduction à Material UI (Ou Tailwind CSS 🤔🤷🏾‍♂️)
+### Semaine 5 : Introduction à Material UI et Tailwind CSS
 - Objectifs :
   - Comprendre Material UI et ses composants.
   - Intégrer Material UI à une application Angular.
   - Appliquer des thèmes et personnaliser les styles.
+  - Prendre en main le framework Tailwind CSS.
+  - Reproduire des designs modernes facilement avec Tailwind CSS.
 - Ressources :
   - Tutoriels : ……………………………………………………………………….
   - Angular Material documentation.
+  - Tailwind CSS documentation.
 - Exercices pratiques : Styliser une application Angular avec Material UI.
 - Note : Nous, les mentors, devons nous mettre d’accord si nous allons utiliser Material UI ou Tailwind CSS
 ### Semaine 6 : Angular Forms et Validation
